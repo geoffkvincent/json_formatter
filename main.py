@@ -1,3 +1,4 @@
 import json
 
-with open('input')
+with open('input.json') as f:
+  data
